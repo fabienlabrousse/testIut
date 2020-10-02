@@ -17,7 +17,7 @@ public class FizzBuzz {
     }
 
     public String result(int i, String previousLine) {
-        return NumberUtils.numberToString(0);
+        return this.numberToString(0);
     }
 
 
